@@ -1,4 +1,4 @@
-### Hey hey!
+## Hey hey!
 
 👋 I am a web developer who strives to simplify the web so that people of all ages can easily find what they are looking for without having to navigate through a sea of information.
 
@@ -6,7 +6,8 @@
 - :seedling: In my free time I like watch Tom and Jerry, or go rock climbing.
 - ⚡ Fun fact: I once made 50 consecutive free throws :basketball:.
 
-### Stats and Stacks
+### Stacks and Stats
+-----
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -21,5 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ding-09&layout=compact&theme=vision-friendly-dark)](https://github.com/ding-09/github-readme-stats)
 
-### Get in touch 
+### Get in touch with me 
+-----
 [LinkedIn](https://linkedin.com/in/ding-09)
