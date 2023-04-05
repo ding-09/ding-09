@@ -2,7 +2,7 @@
 
 👋 I am a web developer who strives to simplify the web so that people of all ages can easily find what they are looking for without having to navigate through a sea of information.
 
-- :woman_technologist: I love front-end development. Building accessible and mobile-friendly web applications is important to me.
+- :woman_technologist: I love front-end development. Building accessible and mobile-friendly web applications are important to me.
 - :seedling: In my free time I like watch Tom and Jerry, or go rock climbing.
 - ⚡ Fun fact: I once made 50 consecutive free throws :basketball:.
 
